@@ -88,5 +88,5 @@ This project is licensed under the **MIT License**.
 
 For any queries or contributions, reach out via:
 - **Email**: er.bushrakhanam@gmail.com
-- **LinkedIn**: [Bushrs Khanam](https://www.linkedin.com/in/bushra-khanam05/)
+- **LinkedIn**: [Bushra Khanam](https://www.linkedin.com/in/bushra-khanam05/)
 
